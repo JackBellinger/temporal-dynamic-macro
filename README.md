@@ -1,6 +1,8 @@
 # temporal-dynamic-macros
 Dynamic macro system for QMK which can delay keypresses
 
+To read a devlog about the design and implementation, visit my [blog](https://jackbellinger.github.io/blog/articles/qmk-dynamic-macros)
+
 # Features
 The Temporal Dynamic Macro (TDM) module provides users with the ability to record and play back sequences of keystrokes, known as macros, on their keyboards.
 - **Recording and Playback**: Users can record a sequence of keystrokes and play them back at any time.
